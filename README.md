@@ -6,10 +6,14 @@ Tasokare is the time bofore sunset. I like the warm color of tasokare and create
 
 ![Demo for Tasokare](https://maple-blog.oss-cn-shanghai.aliyuncs.com/article/image/tasokare-vscode-demo.png)
 
-Author
+## Author
 
 Created by [you06](https://github.com/you06)
 
-License
+## Contributing
+
+Bugs, feature requests and more are welcome here [GitHub Issues](https://github.com/you06/tasokare-vscode/issues).
+
+## License
 
 [MIT License](https://github.com/you06/tasokare-vscode/blob/master/LICENSE)
