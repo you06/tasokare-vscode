@@ -1,0 +1,22 @@
+{
+    "name": "theme-tasokare",
+    "displayName": "tasokare",
+    "description": "Tasokere Theme. A yellow-white theme like the color of sunset.",
+    "version": "0.0.1",
+    "publisher": "you06",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tasokare",
+                "uiTheme": "vs",
+                "path": "./themes/Tomorrow.tmTheme"
+            }
+        ]
+    }
+}
