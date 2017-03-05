@@ -3,13 +3,25 @@
     "displayName": "tasokare",
     "description": "Tasokere Theme. A yellow-white theme like the color of sunset.",
     "version": "0.0.1",
+    "license": "MIT",
     "publisher": "you06",
+    "maintainers": [
+        "Derek P Sifford <dereksifford@gmail.com>"
+    ],
+   "repository": {
+        "type": "git",
+        "url": "https://github.com/you06/tasokare-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/you06/tasokare-vscode/issues"
+    },
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "*"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
