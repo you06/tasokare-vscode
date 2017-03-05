@@ -2,7 +2,7 @@
     "name": "theme-tasokare",
     "displayName": "tasokare",
     "description": "Tasokere Theme. A yellow-white theme like the color of sunset.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "publisher": "you06",
     "maintainers": [
@@ -27,7 +27,7 @@
             {
                 "label": "Tasokare",
                 "uiTheme": "vs",
-                "path": "./themes/Tomorrow.tmTheme"
+                "path": "./themes/Tasokare.tmTheme"
             }
         ]
     }
